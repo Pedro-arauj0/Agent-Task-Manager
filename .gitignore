@@ -1,0 +1,18 @@
+# Credenciais e variáveis de ambiente
+.env
+
+# Ambientes virtuais
+.venv
+.lab-dio
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos do ADK
+.adk
+*.db
+
+# Arquivos do VS Code
+.vscode/
